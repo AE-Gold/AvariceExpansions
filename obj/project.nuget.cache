@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9wgsn33giUKWEzZCvW6ppiGKI0pa9Tb13HzKwoirJT0P2t1Thr5XPZ7GkiUg8bDxNbr2mhluZWnfz6xElpMPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor Townson\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AvariceExpansions\\AvariceExpansions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor Townson\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
