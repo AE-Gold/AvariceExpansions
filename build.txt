@@ -1,0 +1,4 @@
+author = Gold
+version = 0.1.5
+displayName = Avarice Expansions
+homepage = https://discord.gg/mGRQBEV
