@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.Xna;
 using Microsoft.Xna.Framework;
 using Terraria;
@@ -43,23 +43,11 @@ namespace AvariceExpansions.Items.Weapons.Guns.Destiny.Eriana
         {
             if (player.HasBuff(Mod.Find<ModBuff>("DeathGlance").Type))
             {
-                Item.useStyle = 5;
-                Item.useTime = 30;
-                Item.useAnimation = 30;
                 Item.damage = 53;
-                Item.useAmmo = 97;
-                Item.crit = 6;
-                Item.UseSound = SoundID.Item40;
             }
             else
             {
-                Item.useStyle = 5;
-                Item.useTime = 30;
-                Item.useAnimation = 30;
                 Item.damage = 40;
-                Item.useAmmo = 97;
-                Item.crit = 6;
-                Item.UseSound = SoundID.Item40;
             }
             return base.CanUseItem(player);
         }
