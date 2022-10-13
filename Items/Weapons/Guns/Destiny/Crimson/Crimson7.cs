@@ -14,7 +14,7 @@ namespace AvariceExpansions.Items.Weapons.Guns.Destiny.Crimson
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Crimson");
-            Tooltip.SetDefault("Here's the remedy.\nMark 7");
+            Tooltip.SetDefault("Here's the remedy.\n[c/00A2C1:Leeches mana from enemies.]\n[c/02FF8A:Mark 7]");
         }
 
         public override void SetDefaults()
