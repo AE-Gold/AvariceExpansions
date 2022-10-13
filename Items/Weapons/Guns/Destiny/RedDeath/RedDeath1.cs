@@ -12,7 +12,7 @@ namespace AvariceExpansions.Items.Weapons.Guns.Destiny.RedDeath
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Red Death");
-            Tooltip.SetDefault("'Guardian Killer.'\n[c/00A2C1:Shots fired from this weapon heal the player]\n[c/02FF8A:Mark 1]");
+            Tooltip.SetDefault("'Guardian Killer.'\n[c/00A2C1:Leeches health from enemies.]\n[c/02FF8A:Mark 1]");
         }
 
         public override void SetDefaults()
